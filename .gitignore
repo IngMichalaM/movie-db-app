@@ -1,0 +1,6 @@
+/.idea
+commentSBconstrains.txt
+/env 
+/__pycache__
+data.db
+data.sqbpro
